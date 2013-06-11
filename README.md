@@ -1,4 +1,3 @@
-repo_prueba
+OK 11 DE JUNIO 2013 18:48
 ===========
 
-repositorio de practica :3
