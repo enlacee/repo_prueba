@@ -1,0 +1,6 @@
+cache = 0;
+default = 0;
+db = tablesx;
+
+person = 1500;
+title = "this is great"
